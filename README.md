@@ -61,10 +61,6 @@ Hence you need to represent the insights in a much better way
   <img src="https://github.com/rajeshkumar1312/codebasics-telecom-analysis./blob/main/Dashboard/Mockup_dashboard-2%20page%20-telecom.png" height="400">
 </p>
 
-## Mock-up Dashboard
-
-[Mock Up Dashboard.pdf](https://github.com/pateljay7018/Atliq-Telecom-Providers-inside-in-powerBI/blob/d85b065bbd33629256b039052a0495e3f8c22f70/Atliq%20Telecom%20Providers.pdf)
-
 ## Overall Dashboard Design
 
   <p align="center">
