@@ -67,6 +67,10 @@ Hence you need to represent the insights in a much better way
 
 ## Overall Dashboard Design
 
-![Provide Insights to Executive team in Telecom Domain](https://github.com/pateljay7018/Atliq-Telecom-Providers-inside-in-powerBI/blob/d85b065bbd33629256b039052a0495e3f8c22f70/screenshort%201.png)
+  <p align="center">
+  <img src="https://github.com/pateljay7018/Atliq-Telecom-Providers-inside-in-powerBI/blob/d85b065bbd33629256b039052a0495e3f8c22f70/screenshort%201.png" height="400">
+</p>
+<p align="center">
+  <img src="https://github.com/pateljay7018/Atliq-Telecom-Providers-inside-in-powerBI/blob/d85b065bbd33629256b039052a0495e3f8c22f70/screenshort%202.png" height="400">
+</p>
 
-![Provide Insights to Executive team in Telecom Domain_2](https://github.com/pateljay7018/Atliq-Telecom-Providers-inside-in-powerBI/blob/d85b065bbd33629256b039052a0495e3f8c22f70/screenshort%202.png)
